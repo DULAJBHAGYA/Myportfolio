@@ -32,8 +32,7 @@ const portfolios = [
     imgUrl: portfolioImg03,
     category: "Web Design",
     title: "Highway Bus Management System Mobile Application",
-    description:
-      "The SEDS Mora website is the official platform that provides information about SEDS Mora and its activities to the society. It showcases SEDS Mora's mission, projects, and initiatives, promoting transparency and engagement with the wider community.",
+    description:"This mobile application consist with some features such as seat and luggage reservations for thr pasengers.",
     technologies: ["React Native", "Node.js","MongoDB", "FireBase"],
     siteUrl: "#",
   },
