@@ -51,8 +51,7 @@ const portfolios = [
     imgUrl: portfolioImg05,
     category: "Other",
     title: "Smart Work Station",
-    description:
-      "The SEDS Mora web app is the official event platform developed for use in any special event organized by SEDS Mora. It offers a user-friendly interface and interactive features to enhance the event experience. ",
+    description:"This is Smart Work Station that consist with some features to avoid difficulties arise while using computer long period. ",
     technologies: ["C"],
   },
   // {
