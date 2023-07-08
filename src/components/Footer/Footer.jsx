@@ -36,25 +36,27 @@ const Footer = () => {
 
                 <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
                   <a href='https://github.com/DULAJBHAGYA' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer"
-                  ><i class="ri-github-line"></i></a>
+                  ><i className="ri-github-line"></i></a>
                 </span>
 
                 <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
                   <a href='https://www.linkedin.com/in/dulaj-bhagya-7029aa213/' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer">
-                  <i class="ri-linkedin-box-line"></i></a>
+                  <i className="ri-linkedin-box-line"></i></a>
                 </span>
 
                 <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
                   <a href='https://medium.com/@dulajupananda' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer">
-                  <i class="ri-medium-line"></i></a>
+                  <i className="ri-medium-line"></i></a>
                 </span>
 
                 <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                  <a href='https://www.facebook.com/profile.php?id=100005369356450' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer"><i class="ri-facebook-box-line"></i></a>
+                  <a href='https://www.facebook.com/profile.php?id=100005369356450' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer">
+                  <i className="ri-facebook-box-line"></i></a>
                 </span>
 
                 <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                  <a href='https://www.instagram.com/_d.b.u_/' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer"><i class="ri-instagram-line"></i></a>
+                  <a href='https://www.instagram.com/_d.b.u_/' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer">
+                  <i className="ri-instagram-line"></i></a>
                 </span>
 
               </div>
@@ -62,7 +64,7 @@ const Footer = () => {
             </div>
 
           </div>
-          <div>
+          {/* <div>
                 <ul className='flex items-center justify-center gap-10 mt-10'>
                     <li>
                     <a className='text-gray-400 font-[600]' href='#about'>About</a>
@@ -89,7 +91,7 @@ const Footer = () => {
                     </li>
 
                 </ul>
-            </div>
+            </div> */}
         </div>
           {/*===========footer top end=========*/}
 
