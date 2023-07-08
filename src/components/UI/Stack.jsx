@@ -13,19 +13,19 @@ const Card = () => {
         <div className="grid grid-cols-4 gap-4">
 
           <div className="bg-primaryColor rounded-lg p-2">
-          <i class="ri-reactjs-line text-5xl font-bold text-white"></i>
+          <i className="ri-reactjs-line text-5xl font-bold text-white"></i>
           </div>
 
           <div className="bg-primaryColor rounded-lg p-2">
-          <i class="ri--line text-5xl font-bold text-white"></i>
+          <i className="ri--line text-5xl font-bold text-white"></i>
           </div>
 
           <div className="bg-primaryColor rounded-lg p-2">
-          <i class="ri-reactjs-line text-5xl font-bold text-white"></i>
+          <i className="ri-reactjs-line text-5xl font-bold text-white"></i>
           </div>
 
           <div className="bg-primaryColor rounded-lg p-2">
-          <i class="ri-reactjs-line text-5xl font-bold text-white"></i>
+          <i className="ri-reactjs-line text-5xl font-bold text-white"></i>
           </div>
 
         </div>

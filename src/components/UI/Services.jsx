@@ -109,10 +109,10 @@ const Services = () => {
             <div className='w-full sm:w-1/2 sm:pl-8'>
               <div data-aos='fade-left' data-aos-delay='150' data-aos-duration='1300' className='bg-white p-4 rounded shadow group hover:bg-primaryColor cursor-pointer ease-in duration-150'>
                 <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-2xl'>
-                  Apps Development
+                  Mobile Apps Development
                 </h3>
                 <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>
-                I specialize in React Native app development, creating robust and seamless mobile applications.                </p>
+                I specialize in React Native app development, creating robust and seamless mobile applications.</p>
               </div>
             </div>
           </div>
