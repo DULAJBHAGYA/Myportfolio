@@ -28,6 +28,7 @@ const Footer = () => {
                 <i class="ri-mail-fill" style={{marginRight: '5px'}}></i>&nbsp;&nbsp;
                 <h4>dulajupananda@gmail.com</h4>
               </div>
+              
             </div>
 
             <div className='w-full sm:w-1/2'>
