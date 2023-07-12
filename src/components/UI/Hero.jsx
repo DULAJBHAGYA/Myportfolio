@@ -30,10 +30,6 @@ const Hero = () => {
               className='text-headingColor font-[500] text-[1.8rem] sm:text-[30px] leading-[35px] sm:leading-[46px] mt-5'
             >
               IT Undergraduate
-              <br/>
-              UI/UX Designer
-              <br/>
-              Full Stack Developer
             </h2>
 
             <div
