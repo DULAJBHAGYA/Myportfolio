@@ -16,9 +16,18 @@ const Footer = () => {
               <a href='#contact'>
                 <button className='bg-primaryColor text-white font-[500] flex items-center gap-2
                 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
-                  <i class="ri-mail-line"></i> Hire me
+               Visit My Fiverr Profile
                 </button>
               </a>
+
+              <div className='contact-details' style={{display: 'flex', alignItems: 'center', color:'white', marginTop:'30px'}}>
+                <i class="ri-phone-fill" style={{marginRight: '5px'}}></i>&nbsp;&nbsp;
+                <h4 style={{marginRight: '10px'}}>(+94) 76 832 3678</h4><br/>
+              </div>
+              <div className='contact-details' style={{display: 'flex', alignItems: 'center', color:'white',marginTop:'10px'}}>
+                <i class="ri-mail-fill" style={{marginRight: '5px'}}></i>&nbsp;&nbsp;
+                <h4>dulajupananda@gmail.com</h4>
+              </div>
             </div>
 
             <div className='w-full sm:w-1/2'>
