@@ -68,7 +68,7 @@ const Hero = () => {
             <div className='flex items-center gap-9 mt-14'>
 
               <span className='text-smallTextColor text-[15px] font-[600]' >
-                Follow me:
+                Follow me on
               </span>
 
               <span>
