@@ -13,7 +13,7 @@ const portfolios = [
     category: "Web Design",
     title: "Highway Bus Management System Web Site",
     description:
-      "he Highway Bus Management System (HBMS) consists of luggage reservation, Seat Booking, Lost and Found Item submission, Live bus location, Bus Schedule, and Ticket reservations those features.with a mobile application as well as a web application",
+      "The Highway Bus Management System (HBMS) Web Application consists of Admin and Highway Bus Authority screens. From this Admin and Highway Bus Authority can edit data and information used in the HBMS Mobile Application.",
     technologies: ["ReactJs", "Node.js", "MongoDB"],
     siteUrl: "#",
   },
@@ -23,8 +23,8 @@ const portfolios = [
     category: "Ux",
     title: "Highway Bus Management System Web Site",
     description:
-      "The SEDS Mora website is the official platform that provides information about SEDS Mora and its activities to the society. It showcases SEDS Mora's mission, projects, and initiatives, promoting transparency and engagement with the wider community.",
-    technologies: ["ReactJs", "Node.js", "FireBase"],
+      "The Highway Bus Management System (HBMS) Web Site Consist user friendly interfaces.",
+    technologies: ["Figma"],
     siteUrl: "#",
   },
   {
@@ -32,8 +32,8 @@ const portfolios = [
     imgUrl: portfolioImg03,
     category: "Web Design",
     title: "Highway Bus Management System Mobile Application",
-    description:"This mobile application consist with some features such as seat and luggage reservations for thr pasengers.",
-    technologies: ["React Native", "Node.js","MongoDB", "FireBase"],
+    description: "This mobile application consists of some features such as the seat and luggage reservations for the highway bus passengers. And it facilitates highway bus passengers to live location of a bus, bus schedules, bus fares, lost and found items, etc.",
+    technologies: ["React Native", "Node.js", "MongoDB"],
     siteUrl: "#",
   },
   {
@@ -51,7 +51,7 @@ const portfolios = [
     imgUrl: portfolioImg05,
     category: "Other",
     title: "Smart Work Station",
-    description:"This is Smart Work Station that consist with some features to avoid difficulties arise while using computer long period. ",
+    description: "This is a Smart Work Station that consists of some features to avoid difficulties arising while using a computer long period. ",
     technologies: ["C"],
   },
   // {
