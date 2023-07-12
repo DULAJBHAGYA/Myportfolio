@@ -24,7 +24,7 @@ const portfolios = [
     title: "Highway Bus Management System Web Site",
     description:
       "The SEDS Mora website is the official platform that provides information about SEDS Mora and its activities to the society. It showcases SEDS Mora's mission, projects, and initiatives, promoting transparency and engagement with the wider community.",
-    technologies: ["ReactJs", "Node.js", "FireBase"],
+    technologies: ["Figma"],
     siteUrl: "#",
   },
   {
