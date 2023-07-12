@@ -13,10 +13,10 @@ const Footer = () => {
               <h2 className='text-[26px] leading-10 text-white font-[600] mb-5 md:text-[2rem]'>
                 Do you want to make beautiful products?
               </h2>
-              <a href='#contact'>
-                <button className='bg-primaryColor text-white font-[500] flex items-center gap-2
-                hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
-               Visit My Fiverr Profile
+              
+              <a href="https://www.fiverr.com/dulajupananda" target="_blank" rel="noreferrer">
+                <button className='bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
+                  Visit My Fiverr Profile
                 </button>
               </a>
 
