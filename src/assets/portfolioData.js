@@ -23,7 +23,7 @@ const portfolios = [
     category: "Ux",
     title: "Highway Bus Management System Web Site",
     description:
-      "The Highway Bus Management System (HBMS) Web Site Consist user friendly interfaces.",
+      "The Highway Bus Management System (HBMS) Web Site Consist user-friendly and attractive interfaces.",
     technologies: ["Figma"],
     siteUrl: "#",
   },
