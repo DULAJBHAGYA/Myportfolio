@@ -2,6 +2,7 @@ import React from 'react';
 import CountUp from 'react-countup';
 
 
+
 const Skills = () => {
   return (
     <section id='skills'>
