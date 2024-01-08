@@ -18,6 +18,7 @@ const portfolios = [
       "The Highway Bus Management System (HBMS) Web Application consists of Admin and Highway Bus Authority screens. From this Admin and Highway Bus Authority can edit data and information used in the HBMS Mobile Application.",
     technologies: ["ReactJs", "Node.js", "MongoDB"],
     siteUrl: "#",
+    sourceCode: "https://github.com/DULAJBHAGYA/HBMS-Web-application"
   },
   {
     id: "02",
@@ -28,6 +29,7 @@ const portfolios = [
       "The Highway Bus Management System (HBMS) Web Site Consist user-friendly and attractive interfaces.",
     technologies: ["Figma"],
     siteUrl: "#",
+    sourceCode: ""
   },
   {
     id: "03",
@@ -37,6 +39,7 @@ const portfolios = [
     description: "This mobile application consists of some features such as the seat and luggage reservations for the highway bus passengers. And it facilitates highway bus passengers to live location of a bus, bus schedules, bus fares, lost and found items, etc.",
     technologies: ["React Native", "Node.js", "MongoDB"],
     siteUrl: "#",
+    sourceCode: ""
   },
   {
     id: "04",
@@ -65,6 +68,7 @@ const portfolios = [
       "This is a dynamic job portal using MERN stack, empowering job seekers and employers. Implemented seamless job search, user-friendly job posting for employers, and enhanced security with Firebase authentication.",
     technologies: ["React", "Tailwind css", "Node.js", "ExpressJS", "Firebase", "MongoDB"],
     siteUrl: "#",
+    sourceCode: "https://github.com/DULAJBHAGYA/MERN-Job-portal"
   },
   {
     id: "07",
@@ -75,6 +79,7 @@ const portfolios = [
       "My personal portfolio includes my education background, skills,and projects I completed. It is a responsive portfolio website and through it you can contact me.",
     technologies: ["React", "Tailwind css"],
     siteUrl: "https://dulajupananda.netlify.app/",
+    sourceCode: "https://github.com/DULAJBHAGYA/Myportfolio"
   },
   // {
   //   id: "04",

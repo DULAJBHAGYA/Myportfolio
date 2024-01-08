@@ -69,6 +69,11 @@ const Footer = () => {
                   <i className="ri-instagram-line"></i></a>
                 </span>
 
+                <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
+                  <a href='https://www.threads.net/@' className='text-gray-300 font-[500] text-[18px]' target="_blank" rel="noopener noreferrer">
+                  <i className="ri-threads-line"></i></a>
+                </span>
+
               </div>
 
             </div>

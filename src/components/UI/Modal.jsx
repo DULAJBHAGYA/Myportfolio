@@ -36,14 +36,21 @@ const Modal = ({ activeID, setShowModal }) => {
                     </span>
                     )}
             </div>
-
+            <span className='gap-5 flex mt-2'>
             <a href={portfolio.siteUrl} target="_blank" rel="noreferrer">
                 <button className='bg-primaryColor text-white py-2 px-4  rounded-[8px] font-[500] 
                 hover:bg-headingColor ease-in duration-300'>
-                    Live Site
+                    <i class="ri-global-line"></i> Live Site
                 </button>
             </a>
 
+            <a href={portfolio.sourceCode} target="_blank" rel="noreferrer">
+                <button className='bg-primaryColor text-white py-2 px-4  rounded-[8px] font-[500] 
+                hover:bg-headingColor ease-in duration-300'>
+                    <i class="ri-code-s-slash-line"></i> Source Code
+                </button>
+            </a>
+            </span>
         </div>
 
 

@@ -57,8 +57,14 @@ const Education = () => {
                   Kingswood College
                 </h3>
                 <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>
-                  2004 - 2017
+                  2004 - 2017<br/>
                 </p>
+
+                <p className='mt-2 text-[14px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>G.C.E A/L Biological Science - AAB <br/>
+                  Z-Score - 1.4858</p>
+
+                  <p className='mt-2 text-[14px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>G.C.E O/L - 2014<br/>
+                  7As 1B 1C</p>
               </div>
             </div>
           </div>

@@ -101,6 +101,12 @@ const Hero = () => {
                 </a>
               </span>
 
+              <span>
+                <a href='https://www.threads.net/@' className='text-smallTextColor text-[18px] font-[600]' target="_blank" rel="noopener noreferrer">
+                <i class="ri-threads-line"></i>                
+                </a>
+              </span>
+
             </div>
           </div>
           {/* ======== hero img ======= */}
