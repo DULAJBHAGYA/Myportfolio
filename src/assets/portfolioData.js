@@ -18,6 +18,7 @@ const portfolios = [
       "he Highway Bus Management System (HBMS) consists of luggage reservation, Seat Booking, Lost and Found Item submission, Live bus location, Bus Schedule, and Ticket reservations those features.with a mobile application as well as a web application",
     technologies: ["ReactJs", "Node.js", "MongoDB"],
     siteUrl: "#",
+    sourceCode: "https://github.com/DULAJBHAGYA/HBMS-Web-application"
   },
   {
     id: "02",
@@ -28,6 +29,7 @@ const portfolios = [
       "The SEDS Mora website is the official platform that provides information about SEDS Mora and its activities to the society. It showcases SEDS Mora's mission, projects, and initiatives, promoting transparency and engagement with the wider community.",
     technologies: ["Figma"],
     siteUrl: "#",
+    sourceCode: ""
   },
   {
     id: "03",
@@ -37,6 +39,7 @@ const portfolios = [
     description:"This mobile application consist with some features such as seat and luggage reservations for thr pasengers.",
     technologies: ["React Native", "Node.js","MongoDB", "FireBase"],
     siteUrl: "#",
+    sourceCode: ""
   },
   {
     id: "04",
@@ -65,6 +68,7 @@ const portfolios = [
       "This is a dynamic job portal using MERN stack, empowering job seekers and employers. Implemented seamless job search, user-friendly job posting for employers, and enhanced security with Firebase authentication.",
     technologies: ["React", "Tailwind css", "Node.js", "ExpressJS", "Firebase", "MongoDB"],
     siteUrl: "#",
+    sourceCode: "https://github.com/DULAJBHAGYA/MERN-Job-portal"
   },
   {
     id: "07",
@@ -75,6 +79,7 @@ const portfolios = [
       "My personal portfolio includes my education background, skills,and projects I completed. It is a responsive portfolio website and through it you can contact me.",
     technologies: ["React", "Tailwind css"],
     siteUrl: "https://dulajupananda.netlify.app/",
+    sourceCode: "https://github.com/DULAJBHAGYA/Myportfolio"
   },
   // {
   //   id: "04",
