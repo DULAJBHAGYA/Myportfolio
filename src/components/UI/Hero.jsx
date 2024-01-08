@@ -34,7 +34,7 @@ const Hero = () => {
               UI/UX Designer
               <br/>
               Full Stack Developer
-            </h2>
+            </h2> 
 
             <div
               data-aos='fade-up'
@@ -61,14 +61,13 @@ const Hero = () => {
               </span>
               I am an undergraduate student at the University of Moratuwa,
               <br />
-              pursuing a degree in BSc. (Hons) in Information Technology and
-              Management.
+              pursuing a degree in BSc. (Hons) in Information Technology.
             </p>
 
             <div className='flex items-center gap-9 mt-14'>
 
               <span className='text-smallTextColor text-[15px] font-[600]' >
-                Follow me:
+                Follow me on
               </span>
 
               <span>

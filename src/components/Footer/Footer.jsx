@@ -13,6 +13,7 @@ const Footer = () => {
               <h2 className='text-[26px] leading-10 text-white font-[600] mb-5 md:text-[2rem]'>
                 Do you want to make beautiful products?
               </h2>
+              
               <a href="https://www.fiverr.com/dulajupananda" target="_blank" rel="noreferrer">
                 <button className='bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
                   Visit My Fiverr Profile
@@ -27,8 +28,7 @@ const Footer = () => {
                 <i class="ri-mail-fill" style={{marginRight: '5px'}}></i>&nbsp;&nbsp;
                 <h4>dulajupananda@gmail.com</h4>
               </div>
-
-
+              
             </div>
 
             <div className='w-full sm:w-1/2'>
@@ -111,7 +111,7 @@ const Footer = () => {
           {/*===========footer top end=========*/}
 
           {/*===========footer bottom =========*/}
-            <div className='bg-[#1b1e29] py-5 mt-10'>
+            <div className='bg-[#1b1e29] py-5 mt-14'>
               <div className='container'>
                 <div className='flex items-center justify-center sm:justify-between'>
                   <div className='hidden sm:block'>
