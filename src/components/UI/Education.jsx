@@ -34,6 +34,9 @@ const Education = () => {
                 <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>
                   Bsc. (Hons) in Information Technology and Management
                 </p>
+                <p className='mt-2 text-[14px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7'>
+                2021 - Expected 2025
+                </p>
               </div>
             </div>
           </div>
