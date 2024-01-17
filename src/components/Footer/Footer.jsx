@@ -14,7 +14,7 @@ const Footer = () => {
                 Do you want to make beautiful products?
               </h2>
               
-              <a href="https://www.fiverr.com/dulajupananda" target="_blank" rel="noreferrer">
+              <a href="https://www.fiverr.com/dulaj_upananda" target="_blank" rel="noreferrer">
                 <button className='bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
                   Visit My Fiverr Profile
                 </button>
