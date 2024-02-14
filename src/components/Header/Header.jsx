@@ -89,6 +89,10 @@ const Header = () => {
                     </li>
 
                     <li>
+                    <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#contact'>Experience</a>
+                    </li>
+
+                    <li>
                     <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#contact'>Contact</a>
                     </li>
 

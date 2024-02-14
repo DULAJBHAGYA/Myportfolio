@@ -31,9 +31,7 @@ const Hero = () => {
             >
               IT Undergraduate
               <br/>
-              UI/UX Designer
-              <br/>
-              Full Stack Developer
+              Software Engineer
             </h2> 
 
             <div
