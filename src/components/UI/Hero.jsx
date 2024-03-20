@@ -31,7 +31,7 @@ const Hero = () => {
             >
               IT Undergraduate
               <br/>
-              Software Engineer
+              Intern Software Engineer
             </h2> 
 
             <div
@@ -59,7 +59,7 @@ const Hero = () => {
               </span>
               I am an undergraduate student at the University of Moratuwa,
               <br />
-              pursuing a degree in BSc. (Hons) in Information Technology.
+              pursuing a degree in BSc. (Hons) in Information Technology & Management.
             </p>
 
             <div className='flex items-center gap-9 mt-14'>
