@@ -11,6 +11,7 @@ import Portfolio from './components/UI/Portfolio';
 import Contact from './components/UI/Contact';
 import Skills from './components/UI/Skills';
 import Education from './components/UI/Education';
+import Experience from './components/UI/Experience';
 
 function App() {
   useEffect (() => {
@@ -24,6 +25,7 @@ function App() {
       <main>
         <Hero/>
         <Education/>
+        <Experience/>
         <Skills/>
         <Services/>
         <Portfolio/>
