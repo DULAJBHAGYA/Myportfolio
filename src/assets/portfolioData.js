@@ -53,12 +53,16 @@ const portfolios = [
   },
   {
     id: "05",
-    imgUrl: portfolioImg05,
-    category: "Other",
-    title: "Smart Work Station",
-    description: "This is a Smart Work Station that consists of some features to avoid difficulties arising while using a computer long period. ",
-    technologies: ["C"],
+    imgUrl: portfolioImg07,
+    category: "Web Design",
+    title: "To-Do Mobile Application",
+    description:
+      "This is a simple To-Do List application built with Flutter for the frontend, Go for the backend, and PostgreSQL for the database. The app allows users to register ✍️, log in 🔑, add tasks ➕, delete tasks ❌, update tasks 🔄, and view all the tasks they've entered 📋.",
+    technologies: ["Flutter", "Go","PosgreSQL"],
+    siteUrl: "#",
+    sourceCode: "https://github.com/DULAJBHAGYA/todoApp"
   },
+  
   {
     id: "06",
     imgUrl: portfolioImg06,
@@ -80,6 +84,15 @@ const portfolios = [
     technologies: ["React", "Tailwind css"],
     siteUrl: "https://dulajupananda.netlify.app/",
     sourceCode: "https://github.com/DULAJBHAGYA/Myportfolio"
+  },
+  
+  {
+    id: "08",
+    imgUrl: portfolioImg05,
+    category: "Other",
+    title: "Smart Work Station",
+    description: "This is a Smart Work Station that consists of some features to avoid difficulties arising while using a computer long period. ",
+    technologies: ["C"],
   },
   // {
   //   id: "04",

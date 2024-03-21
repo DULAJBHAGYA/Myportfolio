@@ -77,6 +77,10 @@ const Header = () => {
                     </li>
 
                     <li>
+                    <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#experience'>Experience</a>
+                    </li>
+
+                    <li>
                     <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#skills'>Skills</a>
                     </li>
 
@@ -84,13 +88,11 @@ const Header = () => {
                     <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#services'>Services</a>
                     </li>
 
+
                     <li>
                     <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#portfolio'>Portfolio</a>
                     </li>
 
-{/*                     <li>
-                    <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#contact'>Experience</a>
-                    </li> */}
 
                     <li>
                     <a onClick={handleClick} className='text-smallTextColor font-[600]' href='#contact'>Contact</a>
