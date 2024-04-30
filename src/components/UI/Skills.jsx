@@ -88,6 +88,31 @@ const Skills = () => {
 
     </div>
 
+    <div className="flex justify-center mt-10">
+
+      <div className="w-80 h-20 bg-primaryColor mr-4 flex flex-col justify-start items-center rounded-lg">
+        <h2 className='text-white font-[700] mb-0 group-hover:text-white group-hover:font-[200] '>Dart</h2>
+        <h2 className='text-white font-[700] text-[32px] mb-8'>
+                <CountUp start={0} end={85} duration={2} suffix='%' />
+              </h2>
+      </div>
+
+      <div className="w-80 h-20 bg-primaryColor mr-4 flex flex-col justify-start items-center rounded-lg">
+        <h2 className='text-white font-[700] mb-0 group-hover:text-white group-hover:font-[200] '>Flutter</h2>
+        <h2 className='text-white font-[700] text-[32px] mb-8'>
+                <CountUp start={0} end={85} duration={2} suffix='%' />
+              </h2>
+      </div>
+
+      <div className="w-80 h-20 bg-primaryColor mr-4 flex flex-col justify-start items-center rounded-lg">
+        <h2 className='text-white font-[700] mb-0 group-hover:text-white group-hover:font-[200] '>PosgreSQL</h2>
+        <h2 className='text-white font-[700] text-[32px] mb-8'>
+                <CountUp start={0} end={60} duration={2} suffix='%' />
+              </h2>
+      </div>
+
+    </div>
+
     {/* <Card/> */}
 
 

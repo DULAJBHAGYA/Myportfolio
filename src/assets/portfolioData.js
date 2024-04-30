@@ -2,9 +2,10 @@ import portfolioImg01 from "../images/portfolio-01.png";
 import portfolioImg02 from "../images/portfolio-02.png";
 import portfolioImg03 from "../images/portfolio-03.png";
 import portfolioImg04 from "../images/portfolio-04.png";
-import portfolioImg05 from "../images/portfolio-05.png";
+import portfolioImg05 from "../images/portfolio-05.mp4";
 import portfolioImg06 from "../images/portfolio-06.png";
 import portfolioImg07 from "../images/portfolio-07.png";
+import portfolioImg08 from "../images/portfolio-08.png";
 // import portfolioImg06 from "../images/portfolio-06.jpg";
 // import portfolioImg07 from "../images/portfolio-07.jpg";
 
@@ -53,7 +54,7 @@ const portfolios = [
   },
   {
     id: "05",
-    imgUrl: portfolioImg07,
+    imgUrl: portfolioImg05,
     category: "Web Design",
     title: "To-Do Mobile Application",
     description:
@@ -88,7 +89,7 @@ const portfolios = [
   
   {
     id: "08",
-    imgUrl: portfolioImg05,
+    imgUrl: portfolioImg08,
     category: "Other",
     title: "Smart Work Station",
     description: "This is a Smart Work Station that consists of some features to avoid difficulties arising while using a computer long period. ",
