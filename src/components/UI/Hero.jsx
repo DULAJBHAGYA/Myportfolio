@@ -31,7 +31,7 @@ const Hero = () => {
             >
               IT Undergraduate
               <br/>
-              Software Engineer
+              Intern Software Engineer
             </h2> 
 
             <div
