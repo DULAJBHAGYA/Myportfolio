@@ -59,7 +59,7 @@ const Hero = () => {
               </span>
               I am an undergraduate student at the University of Moratuwa,
               <br />
-              pursuing a degree in BSc. (Hons) in Information Technology.
+              pursuing a degree in BSc. (Hons) in Information Technology & Management.
             </p>
 
             <div className='flex items-center gap-9 mt-14'>
@@ -128,7 +128,7 @@ const Hero = () => {
 
             <div className='mb-10'>
               <h2 className='text-headingColor font-[700] text-[32px]'>
-                <CountUp start={0} end={100} duration={2} suffix='%' />
+                <CountUp start={0} end={98} duration={2} suffix='%' />
               </h2>
               <h4 className='text-headingColor font-[600] text-[18px]'>
                 Success Rate
@@ -146,7 +146,7 @@ const Hero = () => {
 
             <div className='mb-10'>
               <h2 className='text-headingColor font-[700] text-[32px]'>
-                <CountUp start={0} end={7} duration={2} suffix='' />
+                <CountUp start={0} end={8} duration={2} suffix='' />
               </h2>
               <h4 className='text-headingColor font-[600] text-[18px]'>
                 Projects Completed
